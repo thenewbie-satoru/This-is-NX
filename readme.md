@@ -26,7 +26,7 @@
 | [afschoolkanpurcantt.com](https://afschoolkanpurcantt.com/) | ✅ RCE Ready |
 
 ---
-''''
+<pre>''''
                      
                      .ed"""" """$$$$be.
                    -"           ^""**$$$e.
@@ -60,4 +60,4 @@
            $.d$$$*                           *  J$$$e*
             """""                              "$$$"
 
-''''
+'''' </pre>
