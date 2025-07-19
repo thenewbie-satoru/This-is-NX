@@ -9,10 +9,10 @@
 ## ⚠️ XSS Vulnerabilities  
 > Payload Tested - basic xss alert
 
-- 🔗 [primabathroomfittings.com](https://www.primabathroomfittings.com/search.php?q=)
+- 🔗 [primabathroomfittings.com](https://www.primabathroomfittings.com/search.php?q=)   
 - 🔗 [a2zelectronic.com](https://www.a2zelectronic.com/search.php?q=)
 - 🔗 [reg.kich.edu.pk](https://www.reg.kich.edu.pk/login.php?error=)
-- 🔗 [dramaonline.pk](http://dramaonline.pk/search.php?q=)
+- 🔗 [dramaonline.pk](http://dramaonline.pk/search.php?q=)   --reflected xss
 
 ---
 
